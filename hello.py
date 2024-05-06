@@ -16,8 +16,9 @@
 # git branch
 # git checkout
 # git commit
+# git merge
 # git revert
 
-
+print("nånting dumt")
 print("Hej")
 
