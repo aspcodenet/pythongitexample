@@ -14,6 +14,10 @@
 # git push
 #    git push -u origin main
 # git branch
+# git checkout
 # git commit
 # git revert
+
+
+print("Hej")
 
