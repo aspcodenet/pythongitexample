@@ -6,9 +6,13 @@
 # den lägger till alla otrackade filer -> git repositoryt
 
 # git clone
-# git remote add origin
 # git commit
+#  git branch -M main     
+# onetimer för att skapa main
+# git remote add origin
+# git remote add origin https://github.com/aspcodenet/pythongitexample.git 
 # git push
+#    git push -u origin main
 # git branch
 # git commit
 # git revert
